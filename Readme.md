@@ -1,6 +1,6 @@
 Automatically scrape the data of candidate profiles on Linkedin website based on a specific search query
 
-Base on tutorial of Boring Python - Youtube Channel : https://youtu.be/hfnBswCe4QE
+Base on tutorial of BoringPpl - Ứng Dụng Lập Trình Python - Youtube Channel : https://youtu.be/hfnBswCe4QE
 
 Hypothesis Problem :
 You are Data Analyst of Headhunt Company and Head-Hunter want e list of potential candidates who are software engineer living in Vietnam on Linkedin Website.
